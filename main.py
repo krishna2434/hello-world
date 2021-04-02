@@ -1,5 +1,3 @@
-print("Hello world")
-
 #!/usr/bin/env python
 
 import webapp2
